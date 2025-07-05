@@ -146,4 +146,4 @@ Created as a utility for converting Skype contact exports to universal VCF forma
 
 ## Thanks
 
-Special thanks to James at mediamonarchy.com for helping test and improve the script.
+Special thanks to James at [mediamonarchy.com](https://www.mediamonarchy.com) for helping test and improve the script.
