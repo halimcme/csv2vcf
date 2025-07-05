@@ -1,6 +1,10 @@
 # CSV to VCF Converter
 
-A cross-platform PowerShell script that converts CSV contact exports (especially from Skype) to VCF (vCard) format for easy import into contact management applications.
+> **Cross-platform PowerShell script for converting CSV contacts to VCF format**
+
+A powerful, user-friendly tool that converts CSV contact exports (especially from Skype) to VCF (vCard) format for easy import into contact management applications. Works seamlessly on Windows, Linux, and macOS with interactive file selection and comprehensive field mapping.
+
+**Keywords:** `powershell` `csv` `vcf` `vcard` `contacts` `skype` `converter` `cross-platform`
 
 ## Features
 
@@ -139,3 +143,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 Created as a utility for converting Skype contact exports to universal VCF format.
+
+## Thanks
+
+Special thanks to James at mediamonarchy.com for helping test and improve the script.
