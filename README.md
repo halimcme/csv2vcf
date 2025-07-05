@@ -140,10 +140,6 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-
-Created as a utility for converting Skype contact exports to universal VCF format.
-
 ## Thanks
 
-Special thanks to James at [mediamonarchy.com](https://www.mediamonarchy.com) for helping test and improve the script.
+Thanks to James at [mediamonarchy.com](https://www.mediamonarchy.com) for helping test and improve the script. 
